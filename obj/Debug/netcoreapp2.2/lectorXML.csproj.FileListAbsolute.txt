@@ -1,0 +1,11 @@
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\bin\Debug\netcoreapp2.2\lectorXML.deps.json
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\bin\Debug\netcoreapp2.2\lectorXML.runtimeconfig.json
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\bin\Debug\netcoreapp2.2\lectorXML.runtimeconfig.dev.json
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\bin\Debug\netcoreapp2.2\lectorXML.dll
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\bin\Debug\netcoreapp2.2\lectorXML.pdb
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.csprojAssemblyReference.cache
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.csproj.CoreCompileInputs.cache
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.AssemblyInfoInputs.cache
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.AssemblyInfo.cs
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.dll
+C:\Users\Rubén Vazquez\Documents\comprobantesNomina2018\lectorXML\obj\Debug\netcoreapp2.2\lectorXML.pdb
